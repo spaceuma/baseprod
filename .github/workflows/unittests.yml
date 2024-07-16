@@ -1,0 +1,17 @@
+name: Unit tests
+
+on: [push]
+
+jobs:
+  unittests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip' # caching pip dependencies
+      - run: pip install -r requirements.txt
+      - run: python -m unittest
+

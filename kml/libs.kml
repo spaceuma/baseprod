@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="186Lvbt0I-3JgA5zV11H4cZvoJUiGueTb">
+	<name>LIBS Measurements</name>
+	<Placemark id="L01">
+		<name>L01</name>
+		<Point>
+			<coordinates>-1.5035585,42.0650008,346.3034779633251</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L02">
+		<name>L02</name>
+		<Point>
+			<coordinates>-1.5035797,42.0649718,346.6009284471556</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L03">
+		<name>L03</name>
+		<Point>
+			<coordinates>-1.5035316,42.0648985,345.8901791806347</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L04">
+		<name>L04</name>
+		<Point>
+			<coordinates>-1.5035214,42.0648014,345.883424259122</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L05">
+		<name>L05</name>
+		<Point>
+			<coordinates>-1.503512,42.0654805,348.7308066516461</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L06">
+		<name>L06</name>
+		<Point>
+			<coordinates>-1.50338,42.0656294,348.7648902227289</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L07">
+		<name>L07</name>
+		<Point>
+			<coordinates>-1.5033268,42.0657906,349.2256931162551</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L08">
+		<name>L08</name>
+		<Point>
+			<coordinates>-1.5032536,42.0659739,349.1860738426879</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L09">
+		<name>L09</name>
+		<Point>
+			<coordinates>-1.5034932,42.0664268,350.1236985849936</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L10">
+		<name>L10</name>
+		<Point>
+			<coordinates>-1.5031045,42.0674516,350.6458218537657</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L13">
+		<name>L13</name>
+		<Point>
+			<coordinates>-1.5027946,42.0680481,353.5481522395704</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L12">
+		<name>L12</name>
+		<Point>
+			<coordinates>-1.5028376,42.0679278,353.7939425880713</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L11">
+		<name>L11</name>
+		<Point>
+			<coordinates>-1.5029998,42.0677794,354.2358585312899</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L14">
+		<name>L14</name>
+		<Point>
+			<coordinates>-1.5033842,42.064594,349.0893693686818</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L15">
+		<name>L15</name>
+		<Point>
+			<coordinates>-1.5033141,42.0645186,343.0727007374601</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L16">
+		<name>L16</name>
+		<Point>
+			<coordinates>-1.5032449,42.0644191,343.0914336315855</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L17">
+		<name>L17</name>
+		<Point>
+			<coordinates>-1.5031805,42.0644991,358.9840937375214</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L18">
+		<name>L18</name>
+		<Point>
+			<coordinates>-1.5032141,42.0642909,344.8028171004479</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L19">
+		<name>L19</name>
+		<Point>
+			<coordinates>-1.5030767,42.0641758,342.7892393803522</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L20">
+		<name>L20</name>
+		<Point>
+			<coordinates>-1.5030787,42.0694286,340.6564634895265</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L21">
+		<name>L21</name>
+		<Point>
+			<coordinates>-1.5030307,42.069251,344.7684363772117</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L22">
+		<name>L22</name>
+		<Point>
+			<coordinates>-1.5030714,42.0690754,360.5517435120909</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L23">
+		<name>L23</name>
+		<Point>
+			<coordinates>-1.5031988,42.0688628,358.8162887459956</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L24">
+		<name>L24</name>
+		<Point>
+			<coordinates>-1.50319,42.0685798,355.3430149961615</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L25">
+		<name>L25</name>
+		<Point>
+			<coordinates>-1.5031204,42.0684649,355.7521231544208</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L26">
+		<name>L26</name>
+		<Point>
+			<coordinates>-1.5029807,42.0682638,355.4048976887228</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L27">
+		<name>L27</name>
+		<Point>
+			<coordinates>-1.5027967,42.0681137,357.3335204892064</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L28">
+		<name>L28</name>
+		<Point>
+			<coordinates>-1.5027797,42.0680407,357.8254876203907</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="L29">
+		<name>L29</name>
+		<Point>
+			<coordinates>-1.5027975,42.068046,354.422552850975</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
