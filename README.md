@@ -1,7 +1,6 @@
 # BASEPROD Scripts
 
-These scripts were used to prepare BASEPROD, the Bardenas Semi-Desert Planetary
-Rover Dataset.
+These scripts were used to prepare [BASEPROD: The Bardenas Semi-Desert Planetary Rover Dataset](https://doi.org/10.1038/s41597-024-03881-1).
 The code is released under the [MIT License](LICENSE).
 
 Authors:
